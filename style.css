@@ -25,6 +25,7 @@
 
         /* Navigation */
         nav {
+            -webkit-backdrop-filter: blur(10px);
             backdrop-filter: blur(10px);
             background: linear-gradient(135deg, #1a237e 0%, #3949ab 100%);
             padding: 1rem 0;
